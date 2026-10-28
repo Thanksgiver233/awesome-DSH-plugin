@@ -216,7 +216,7 @@ DeepSeek Harness Plugin 能让智能体连接工具、服务、设备和可复�
 
 - [dsh-vision-tools](https://github.com/moon09300731/dsh-vision-tools) — DeepSeek Harness 视觉工具包：通过 vision_understand 将纯文本 DeepSeek 模型桥接到 OpenAI 兼容视觉 API。
 
-- [PromptReel](https://github.com/Thanksgiver233/PromptReel) — 视频提示词中枢 DSH 插件：同一个创意按 15 个视频模型的各自写法重排并生成分镜脚本，含 1 个 Skill 与 5 原生工具，零依赖。  
+- [PromptReel](https://github.com/Thanksgiver233/PromptReel) — 视频提示词中枢 DSH 插件：同一个创意按 15 个视频模型的各自写法重排并生成分镜脚本，含 1 个 Skill 与 5 个原生工具，零依赖。  
 
 ### 商业、金融与电商
 
